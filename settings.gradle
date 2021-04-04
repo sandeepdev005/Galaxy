@@ -1,0 +1,3 @@
+include ':GalaxyUI'
+include ':app'
+rootProject.name = "Galaxy"
